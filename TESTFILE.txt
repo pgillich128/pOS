@@ -1,0 +1,3 @@
+exec sched1.txt sched2.txt sched3.txt
+run tf1.txt
+quit
